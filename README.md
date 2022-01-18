@@ -2,7 +2,7 @@
 ### 1 This is the reproduciable file of the research "What is the cluster pattern of the Ultra Low Emission Vehicle (ULEV) amount with its charging infrastructure, and what are the factors affecting the ULEV market share among England, Wales, and Scotland?"
 
 
-### 2 Data used in this study are available above, one geographic data need to be downloaded manually, the download path is provided in the following part. 
+### 2 Data used in this study are available above, **one geographic data need to be downloaded manually**, the download path is provided in the following part. 
 #### 2.1 ULEV related data and social economic data were downloaded from government website and they are all in the different sheets of "data.xlsx".
 #### 2.2 You can find each data's website below if you are interested in.
 
