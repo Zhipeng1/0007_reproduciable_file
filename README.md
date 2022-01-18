@@ -9,6 +9,9 @@
 ![image](https://user-images.githubusercontent.com/91874485/149977634-1aa805c8-cd14-49ca-93ce-5c11d4d72b99.png)
 
 ### 2.3 You will use jupyter-notebook to open the CASA_0007_assessment_3_code.ipynb file to run the code.
+The local file in your machine should look like this:
+![image](https://user-images.githubusercontent.com/91874485/149987923-a880d394-441a-4fc6-a8df-dc74e92f18eb.png)
+
 
 
 ### 3 Data source:  
