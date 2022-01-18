@@ -1,11 +1,15 @@
 # 0007_reproduciable_file
 ### 1 This is the reproduciable file of the research "What is the cluster pattern of the Ultra Low Emission Vehicle (ULEV) amount with its charging infrastructure, and what are the factors affecting the ULEV market share among England, Wales, and Scotland?"
 
+
 ### 2 Data used in this study are available above, one geographic data need to be downloaded manually, the download path is provided in the following part. 
 #### 2.1 ULEV related data and social economic data were downloaded from government website and they are all in the different sheets of "data.xlsx".
-#### 2.2 You can find each data's website below.
+#### 2.2 You can find each data's website below if you are interested in.
+
 #### ULEV registered data: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1046001/veh0132.ods
 #### ULEV registered for the first time by region: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1046010/veh0172.ods
+#### Car new registered by region: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/985943/veh0254.ods  
+#### Charging infrastructure: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027050/electric-vehicle-charging-device-statistics-october-2021.ods
 
 #### Earning data: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/ashe1997to2015selectedestimates
 #### Education level data: https://statswales.gov.wales/Catalogue/Education-and-Skills/Post-16-Education-and-Training/Lifelong-Learning/Qualification-Levels/highestqualificationlevelsofworkingageadults-by-ukcountry-region-qualification
